@@ -1,3 +1,3 @@
 def my_select(collection)
- collection.selct
+ collection.select
 end
